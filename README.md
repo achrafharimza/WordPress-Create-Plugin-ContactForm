@@ -2,4 +2,4 @@
 
 1. pour utilser ce plugin, ajouter ce dossier au dossier des plugins
 
-2. Activater le plugin dand wordpress plugins dashboard
+2. Activer le plugin dans wordpress plugins dashboard
